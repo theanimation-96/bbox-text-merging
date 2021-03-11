@@ -8,6 +8,6 @@ top coordinate: bottom coordinate : both are constant(minimal difference i.e. Pi
   ((1197, 499), (1466, 567), "Text2"),
   ((1478, 507), (1643, 557), 'Text3')`
   
- As you can see top and bottom are constant for in-line text.
+ As you can see top and bottom are almost constant for in-line text.
 
 Thanks, Enjoy!!!
