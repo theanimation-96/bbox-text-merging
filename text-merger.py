@@ -64,10 +64,10 @@ class inLineText:
     def findNearerBox(listOfCenterCords):
         """
         The function will loop through the center cords for twice and it will find the matching coordinates with each
-        other with a tolerance of 10-pixels and put it in a key-value manner in the dictionary.
+        other and put in key- value pair.
         then it will again loop through the dictionary values and will find the unique values of the center cords.
 
-        @note - tolerance of 10 px is there due to variation of the text boxes
+      
         @param listOfCenterCords: list of the center coordinates.
         @return: unique list of the center coordinates.
         """
